@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+torch
+transformers
+librosa
+numpy
+scipy
+fastdtw
+openai-whisper
+loguru
+python-multipart
+pydantic>=2,<3
